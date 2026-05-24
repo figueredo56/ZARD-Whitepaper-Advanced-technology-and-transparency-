@@ -21,8 +21,6 @@ Designed with extreme scarcity specifications and systematic rebalancing algorit
 
 ## 📊 Market Architecture & On-Chain Liquidity
 
-To isolate the protocol from external market manipulation, predatory front-running, and flash-loan exploits, ZAIRD utilizes a highly concentrated, programmatically locked liquidity structure.
-https://img.shields.io/badge/Network-BSC%20Mainnet-F3BA2F?style=flat-squared&logo=binance
 ### 🔒 Core Protocol Routing
 * **Official Liquidity Pool Pair (PancakeSwap V2):** `0xC17Cf3b889D9476eE6b2B74428bB3FDf55894B76`
 * **Base Asset Architecture:** `ZAIRD / WBNB`
