@@ -1,11 +1,11 @@
+Z.2
+
 # ZAIRD-Whitepaper-Advanced-technology-and-transparency-
-Designed with extreme scarcity specifications and systematic rebalancing algorithms, ZAIRD has been conceptualized to optimally synchronize three pillars of ecosystem action: Advanced psychology of high-frequency trading (futures trading psychology), Web3 interactive entertainment platforms, and automated value. 
+Designed with extreme scarcity specifications and systematic rebalancing algorithms, Z.2 has been conceptualized to optimally synchronize three pillars of ecosystem action: Advanced psychology of high-frequency trading (futures trading psychology), Web3 interactive entertainment platforms, and automated value. 
 
 # ZAIRD PROTOCOL ⚡ — LIQUIDITY ENGINE
 ### High-Frequency Market Architecture & Systematic Asset Rebalancing
 
-[![Audited: Xenocrypt](https://img.shields.io/badge/Security-Xenocrypt%20Verified-00FFA3?style=flat-squared)](https://app.binance.com/uni-qr/web3-token-details?utm_medium=share&tokenCA=0x84027d2b2f269bfd39598b0b074dbccf48634549&binanceChainId=56&chain=bsc)
-[![Engine: Ultra--Scarce](https://img.shields.io/badge/Supply-Ultra--Scarce%20%5B100%20Max%5D-FF0055?style=flat-squared)](https://bscscan.com/token/0x84027d2B2f269BfD39598b0b074dbccf48634549)
 
 ---
 
@@ -22,8 +22,9 @@ Designed with extreme scarcity specifications and systematic rebalancing algorit
 ## 📊 Market Architecture & On-Chain Liquidity
 
 ### 🔒 Core Protocol Routing
-* **Official Liquidity Pool Pair (PancakeSwap V2):** `0xC17Cf3b889D9476eE6b2B74428bB3FDf55894B76`
-* **Base Asset Architecture:** `ZAIRD / WBNB`
+* **Official Liquidity Pool Pair
+
+* **Base Asset Architecture:** `Z.2 / WBNB`
 * **Analytics Tracking:** Integrated via **Ave.ai** real-time institutional data feeds.
 
 ### 🦀 Tokenomics & Holder Stratification
