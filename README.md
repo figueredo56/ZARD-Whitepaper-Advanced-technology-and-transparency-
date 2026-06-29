@@ -1,5 +1,5 @@
-# Z.2 -Whitepaper-Advanced-technology-and-transparency-
-Designed with extreme scarcity specifications and systematic rebalancing algorithms, Z.2 has been conceptualized to optimally synchronize three pillars of ecosystem action: Advanced psychology of high-frequency trading (futures trading psychology), Web3 interactive entertainment platforms, and automated value. 
+# ZARD -Whitepaper-Advanced-technology-and-transparency-
+Designed with extreme scarcity specifications and systematic rebalancing algorithms, ZARD has been conceptualized to optimally synchronize three pillars of ecosystem action: Advanced psychology of high-frequency trading (futures trading psychology), Web3 interactive entertainment platforms, and automated value. 
 
 # ZAIRD PROTOCOL ⚡ — LIQUIDITY ENGINE
 ### High-Frequency Market Architecture & Systematic Asset Rebalancing
@@ -17,7 +17,7 @@ Designed with extreme scarcity specifications and systematic rebalancing algorit
 
 ---
 
-## 📊 Market Architecture & On-Chain Liquidity
+## 📊 Market Architectureü & On-Chain Liquidity
 
 ### 🔒 Core Protocol Routing
 * **Official Liquidity Pool Pair
@@ -33,7 +33,7 @@ Designed with extreme scarcity specifications and systematic rebalancing algorit
 * **Compilation Targets:** EVM-Compatible Optimization
 * **Integrations:** Web3 Arcade Interface / High-Frequency Execution Modules
 
-# ZAARD Innovation: Z2 Token Protocol Whitepaper
+# ZAARD Innovation: ZARD Token Protocol Whitepaper
 ### Architectural Framework for Absolute Scarcity, Cross-Asset Equivalence, and Web3 Arcade Micro-Streaming Rewards
 
 ---
@@ -54,15 +54,15 @@ The fundamental layer of the Z2 token enforces a completely static emission base
 
 | Technical Parameter | Specification Metric | Target Value / Protocol State |
 | :--- | :--- | :--- |
-| **Token Name** | Z2 Token | Z2 |
-| **Token Ticker Symbol** | Z2 | Z2 |
+| **Token Name** | ZARD Token | Z2 |
+| **Token Ticker Symbol** | ZARD |
 | **Contract Decimals** | Standard EVM Mantissa | 18 Decimals |
-| **Total Max Supply** | $S_{total}$ | 100 Tokens (Absolute Limit) |
+| **Total Max Supply** | $S_{total}$ | 200 Tokens (Absolute Limit) |
 | **Blockchain Network** | BNB Smart Chain | BEP-20 Standard |
 | **Primary Launchpad** | Decentralized AMM | PancakeSwap V3 |
 | **Audit Architecture** | Logic & Invariant Check | Xenocrypt Security Protocol |
 
-Because the supply parameter is restricted to 100 integer units, the financial density of each fractional unit increases significantly, allowing the asset to scale efficiently into micro-decimals ($10^{-18}$) for on-chain settlement.
+Because the supply parameter is restricted to 200 integer units, the financial density of each fractional unit increases significantly, allowing the asset to scale efficiently into micro-decimals ($10^{-18}$) for on-chain settlement.
 
 ---
 
@@ -95,9 +95,9 @@ The official market layout for Z2 relies on **PancakeSwap V3 Full Range** parame
 
 | Asset Trading Pair | Live Rate Parity Configuration | Implied Base Unit Valuation | AMM Engine Profile | Deployment Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **Z2 / WBNB** | $1 \text{ BNB} = 0.002583 \text{ Z2}$ | $1 \text{ Z2} \approx 387.14 \text{ BNB}$ | PancakeSwap V3 (Full Range) | **Active** |
-| **Z2 / BTCB** | $1 \text{ BTCB} = 0.268916 \text{ Z2}$ | $1 \text{ Z2} \approx 3.7186 \text{ BTCB}$ | PancakeSwap V3 (Full Range) | **Active** |
-| **Z2 / CAKE** | $1 \text{ CAKE} = 0.0000123 \text{ Z2}$ | $1 \text{ Z2} \approx 81,300.8 \text{ CAKE}$ | PancakeSwap V3 (Dynamic Index) | **Deploying** |
+| **ZARD / WBNB** | $1 \text{ BNB} = 0.002583 \text{ Z2}$ | $1 \text{ ZARD} \approx 387.14 \text{ BNB}$ | PancakeSwap V3 (Full Range) | **Active** |
+| **ZARD / BTCB** | $1 \text{ BTCB} = 0.268916 \text{ Z2}$ | $1 \text{ ZARD} \approx 3.7186 \text{ BTCB}$ | PancakeSwap V3 (Full Range) | **Active** |
+| **ZARD/ CAKE** | $1 \text{ CAKE} = 0.0000123 \text{ Z2}$ | $1 \text{ ZARD} \approx 81,300.8 \text{ CAKE}$ | PancakeSwap V3 (Dynamic Index) | **Deploying** |
 
 This structural unifications means that a transaction initiated in the BTCB pool shares exact value alignment with the native WBNB pool, neutralizing exploit vectors.
 
@@ -108,7 +108,7 @@ This structural unifications means that a transaction initiated in the BTCB pool
 Z2 is engineered to function as the elite utility fuel powering the decentralized gaming arm of **ZAARD Innovation**. Rather than acting as a speculative placeholder, it is deeply bound to the following execution states:
 
 ### 5.1 Play-to-Earn Micro-Streaming Rewards
-Traditional GameFi protocols fail because they mint tokens out of thin air to reward players. The ZAARD Arcade Engine bypasses this flaw by using micro-streaming reward logic. High-score cryptographic proofs submitted by players unlock ultra-precise, pre-allocated fractional units of Z2 directly into user wallets.
+Traditional GameFi protocols fail because they mint tokens out of thin air to reward players. The ZAARD Arcade Engine bypasses this flaw by using micro-streaming reward logic. High-score cryptographic proofs submitted by players unlock ultra-precise, pre-allocated fractional units of ZARD directly into user wallets.
 
 ### 5.2 High-Tier Vault Access and Battle Arenas
 Holding an entire integer of Z2 is structurally equivalent to controlling 1% of the total network capacity. Fractions of Z2 are utilized within the arcade layer to:
